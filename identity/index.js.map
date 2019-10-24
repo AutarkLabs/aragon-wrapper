@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/identity/index.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;AAAA;;AACA","sourcesContent":["export { default as AddressIdentityProvider } from './AddressIdentityProvider'\nexport { default as LocalIdentityProvider } from './LocalIdentityProvider'\n"],"file":"index.js"}

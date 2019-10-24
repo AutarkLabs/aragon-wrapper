@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/rpc/handlers/network.js"],"names":["request","proxy","wrapper","network"],"mappings":";;;;;;;AAAe,kBAAUA,OAAV,EAAmBC,KAAnB,EAA0BC,OAA1B,EAAmC;AAChD,SAAOA,OAAO,CAACC,OAAf;AACD","sourcesContent":["export default function (request, proxy, wrapper) {\n  return wrapper.network\n}\n"],"file":"network.js"}
